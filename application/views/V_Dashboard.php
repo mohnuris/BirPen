@@ -13,6 +13,15 @@
                                         </div>
                                         <!-- <canvas id="coin_sales2" height="40"></canvas> -->
                               </div>
+
+
+                              <div class="col-xl-3 col-md-6 mb-4">
+                                        <div class="card border-left-primary shadow h-4">
+                                                  <div class="card-body bg-primary">
+
+                                                  </div>
+                                        </div>
+                              </div>
                               <h1>Selamat datang di website corona</h1>
                     </div>
           </div>
