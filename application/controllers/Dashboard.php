@@ -17,16 +17,12 @@ class Dashboard extends CI_Controller
 
       public function KepalaSekolah()
       {
-            $tittle['subtittle'] = "HALAMAN DASBOARD";
+            $tittle['subtittle'] = "DASBOARD";
             $tittle['dashboard'] = "MENU";
-            $data['us'] = $this->db->get('users')->num_rows();
-            $data['g'] = $this->db->get('guru')->num_rows();
-            $data['s'] = $this->db->get('siswa')->num_rows();
-            $data['k'] = $this->db->get('kelas')->num_rows();
-            $this->load->view('dasbor/header', $tittle);
-            $this->load->view('home', $data);
-            $this->load->view('dasbor/footer');
-            $this->load->view('kepalasekolah');
+            $this->load->view('layout/header');
+            $this->load->view('layout/sidebar');
+            $this->load->view('V_KepalaSekolah');
+            $this->load->view('layout/footer');
       }
       public function Guru()
       {

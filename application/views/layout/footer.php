@@ -1,10 +1,10 @@
 <footer class="main-footer">
-          <div class="footer-left">
-                    Copyright &copy; 2020 <div class="bullet"></div> DevBy <a href="https://github.com/mohnuris">mnuris</a>
-          </div>
-          <div class="footer-right">
-                    2020
-          </div>
+  <div class="footer-left">
+    Copyright &copy; 2020 <div class="bullet"></div> DevBy <a href="https://github.com/mohnuris">mnuris</a>
+  </div>
+  <div class="footer-right">
+    2020
+  </div>
 </footer>
 </div>
 </div>
@@ -18,9 +18,9 @@
 <script src="<?= base_url('assets/js/stisla.js') ?>"></script>
 
 <!-- Table -->
-<script src="https://code.jquery.com/jquery-3.3.1.js"></script>
-<script src=" https://code.jquery.com/jquery-3.3.1.js"></script>
-<script src="https://cdn.datatables.net/1.10.20/js/dataTables.bootstrap.min.js"></script>
+<!-- <script src="https://code.jquery.com/jquery-3.3.1.js"></script> -->
+<!-- <script src=" https://code.jquery.com/jquery-3.3.1.js"></script> -->
+<!-- <script src="https://cdn.datatables.net/1.10.20/js/dataTables.bootstrap.min.js"></script> -->
 
 <!-- JS Libraies -->
 <script src="../node_modules/jquery-sparkline/jquery.sparkline.min.js"></script>
