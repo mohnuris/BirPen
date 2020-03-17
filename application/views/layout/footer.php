@@ -17,6 +17,11 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.24.0/moment.min.js"></script>
 <script src="<?= base_url('assets/js/stisla.js') ?>"></script>
 
+<!-- Table -->
+<script src="https://code.jquery.com/jquery-3.3.1.js"></script>
+<script src=" https://code.jquery.com/jquery-3.3.1.js"></script>
+<script src="https://cdn.datatables.net/1.10.20/js/dataTables.bootstrap.min.js"></script>
+
 <!-- JS Libraies -->
 <script src="../node_modules/jquery-sparkline/jquery.sparkline.min.js"></script>
 <script src="../node_modules/chart.js/dist/Chart.min.js"></script>
